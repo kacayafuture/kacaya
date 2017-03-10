@@ -1,25 +1,21 @@
 Kacaya integration/staging tree
 ================================
 
-http://www.kacaya.org
+http://www.kacayafuture.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Kacaya Developers
+Copyright (c) 2017 Kacaya Developers
 
 What is Kacaya?
-----------------
+---new future cryptocurrency
 
 Kacaya is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
-
-The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
+ - subsidy halves in 420k blocks (~2 years)
+ - ~20 million total coins
 
 For more information, as well as an immediately useable, binary version of
-the Kacaya client sofware, see http://www.kacaya.org.
+the Kacaya client sofware, see http://www.kacayafuture.org.
 
 License
 -------
